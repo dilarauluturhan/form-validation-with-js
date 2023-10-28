@@ -3,7 +3,7 @@
 </div>
 
 ## About The Project
-![Ekran görüntüsü 2023-10-28 130250](https://github.com/dilarauluturhan/form-validation-with-js/assets/120499369/a4faaacb-080c-4a52-a06b-a6f7bc60f7b6)
+![](https://github.com/dilarauluturhan/form-validation-with-js/assets/120499369/e99428b4-9eba-438f-bf43-8f95f40fcc78)
 
 ## Installation
 
